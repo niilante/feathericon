@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
     <title>search-plus</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="search-plus" fill="#000000">
-            <path d="M8.85700408,9.85700408 L13,14 L14,13 L9.85700408,8.85700408 C10.5736833,7.92821055 11,6.76389108 11,5.5 C11,2.46243388 8.53756612,0 5.5,0 C2.46243388,0 0,2.46243388 0,5.5 C0,8.53756612 2.46243388,11 5.5,11 C6.76389108,11 7.92821055,10.5736833 8.85700408,9.85700408 L8.85700408,9.85700408 Z M5.5,9.5 C7.709139,9.5 9.5,7.709139 9.5,5.5 C9.5,3.290861 7.709139,1.5 5.5,1.5 C3.290861,1.5 1.5,3.290861 1.5,5.5 C1.5,7.709139 3.290861,9.5 5.5,9.5 Z M5,3 L6,3 L6,5 L8,5 L8,6 L6,6 L6,8 L5,8 L5,6 L3,6 L3,5 L5,5 L5,3 Z" id="Shape"></path>
+        <g id="search-plus">
+            <g id="grid">
+                <rect id="content-area" fill-opacity="0.200000018" fill="#66D5FF" fill-rule="evenodd" x="2" y="2" width="16" height="16"></rect>
+                <path d="M2,2 L18,18" id="Line" stroke="#C1C0C1" stroke-width="0.02" stroke-linecap="square" transform="translate(10.000000, 10.000000) scale(-1, 1) translate(-10.000000, -10.000000) "></path>
+                <circle id="circle" stroke="#C1C0C1" stroke-width="0.02" cx="10" cy="10" r="7.99"></circle>
+                <circle id="circle" stroke="#C1C0C1" stroke-width="0.02" cx="10" cy="10" r="2.99"></circle>
+                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="4" cy="4" r="1"></circle>
+                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="16" cy="4" r="1"></circle>
+                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="16" cy="16" r="1"></circle>
+                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="4" cy="16" r="1"></circle>
+                <path d="M2,2 L18,18" id="Line" stroke="#C1C0C1" stroke-width="0.02" stroke-linecap="square"></path>
+                <rect id="rect-horizontal" stroke="#C1C0C1" stroke-width="0.02" x="4.01" y="2.01" width="11.98" height="15.98" rx="2"></rect>
+                <rect id="rect-vertical" stroke="#C1C0C1" stroke-width="0.02" transform="translate(10.000000, 10.000000) rotate(90.000000) translate(-10.000000, -10.000000) " x="4.01" y="2.01" width="11.98" height="15.98" rx="2"></rect>
+            </g>
+            <path d="M8,12.5 C10.4852814,12.5 12.5,10.4852814 12.5,8 C12.5,5.51471863 10.4852814,3.5 8,3.5 C5.51471863,3.5 3.5,5.51471863 3.5,8 C3.5,10.4852814 5.51471863,12.5 8,12.5 Z" id="Oval" fill="#000000" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="#000000" x="7" y="5" width="2" height="6"></rect>
+            <path d="M8,14 C4.6862915,14 2,11.3137085 2,8 C2,4.6862915 4.6862915,2 8,2 C11.3137085,2 14,4.6862915 14,8 C14,11.3137085 11.3137085,14 8,14 Z" id="Path" fill="#000000"></path>
+            <rect id="Rectangle-2" fill="#000000" x="5" y="7" width="6" height="2"></rect>
         </g>
     </g>
 </svg>

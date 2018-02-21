@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="3px" height="13px" viewBox="0 0 3 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
     <title>elipsis-v</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="elipsis-v" fill="#000000">
-            <path d="M1.5,13 C0.671572875,13 0,12.3284271 0,11.5 C0,10.6715729 0.671572875,10 1.5,10 C2.32842712,10 3,10.6715729 3,11.5 C3,12.3284271 2.32842712,13 1.5,13 Z M1.5,8 C0.671572875,8 0,7.32842712 0,6.5 C0,5.67157288 0.671572875,5 1.5,5 C2.32842712,5 3,5.67157288 3,6.5 C3,7.32842712 2.32842712,8 1.5,8 Z M1.5,3 C0.671572875,3 0,2.32842712 0,1.5 C0,0.671572875 0.671572875,0 1.5,0 C2.32842712,0 3,0.671572875 3,1.5 C3,2.32842712 2.32842712,3 1.5,3 Z" id="Shape"></path>
+            <path d="M10,18 C8.8954305,18 8,17.1045695 8,16 C8,14.8954305 8.8954305,14 10,14 C11.1045695,14 12,14.8954305 12,16 C12,17.1045695 11.1045695,18 10,18 Z M10,12 C8.8954305,12 8,11.1045695 8,10 C8,8.8954305 8.8954305,8 10,8 C11.1045695,8 12,8.8954305 12,10 C12,11.1045695 11.1045695,12 10,12 Z M10,6 C8.8954305,6 8,5.1045695 8,4 C8,2.8954305 8.8954305,2 10,2 C11.1045695,2 12,2.8954305 12,4 C12,5.1045695 11.1045695,6 10,6 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

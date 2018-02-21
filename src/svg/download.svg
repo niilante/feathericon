@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="12px" viewBox="0 0 10 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
     <title>download</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="download" fill="#000000">
-            <path d="M6,7 L8,5 L9,6 L5,10 L1,6 L2,5 L4,7 L4,-2.22044605e-16 L6,-2.22044605e-16 L6,7 Z M-4.4408921e-16,11 L10,11 L10,12 L-4.4408921e-16,12 L-4.4408921e-16,11 Z" id="Shape"></path>
+            <path d="M11,10 L13,8 L14,9 L10,13 L6,9 L7,8 L9,10 L9,4 L11,4 L11,10 Z M15,16 L5,16 C4.44771525,16 4,15.5522847 4,15 C4,14.4477153 4.44771525,14 5,14 L15,14 C15.5522847,14 16,14.4477153 16,15 C16,15.5522847 15.5522847,16 15,16 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

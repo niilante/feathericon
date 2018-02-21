@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
     <title>user-plus</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="user-plus" fill="#000000">
-            <path d="M12.5,5.5 L14,5.5 L14,6.5 L12.5,6.5 L12.5,8 L11.5,8 L11.5,6.5 L10,6.5 L10,5.5 L11.5,5.5 L11.5,4 L12.5,4 L12.5,5.5 Z M5.99999999,6 C4.34314574,6 2.99999999,4.65685425 2.99999999,3 C2.99999999,1.34314575 4.34314574,0 5.99999999,0 C7.65685424,0 8.99999999,1.34314575 8.99999999,3 C8.99999999,4.65685425 7.65685424,6 5.99999999,6 Z M6,8 C9,8 12,9.78999996 12,11 L12,11.9970707 L0.00247329476,12 L0,11 C0.00247329476,9.78525148 3,8 6,8 Z" id="Shape"></path>
+            <path d="M15.5,9.5 L17,9.5 L17,10.5 L15.5,10.5 L15.5,12 L14.5,12 L14.5,10.5 L13,10.5 L13,9.5 L14.5,9.5 L14.5,8 L15.5,8 L15.5,9.5 Z M8.99999999,10 C7.34314574,10 5.99999999,8.65685425 5.99999999,7 C5.99999999,5.34314575 7.34314574,4 8.99999999,4 C10.6568542,4 12,5.34314575 12,7 C12,8.65685425 10.6568542,10 8.99999999,10 Z M9,12 C12,12 15,13.79 15,15 L15,15.9970707 L3.00247329,16 L3,15 C3.00247329,13.7852515 6,12 9,12 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

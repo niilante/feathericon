@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
     <title>user</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="user" fill="#000000">
-            <path d="M5.99999999,6 C4.34314574,6 2.99999999,4.65685425 2.99999999,3 C2.99999999,1.34314575 4.34314574,0 5.99999999,0 C7.65685424,0 8.99999999,1.34314575 8.99999999,3 C8.99999999,4.65685425 7.65685424,6 5.99999999,6 Z M6,8 C9,8 12,9.78999996 12,11 L12,11.9970707 L0.00247329476,12 L0,11 C0.00247329476,9.78525148 3,8 6,8 Z" id="Shape"></path>
+        <g id="user">
+            <circle id="path" fill="#000000" cx="9.99999999" cy="6" r="4"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="10" cy="6" r="2"></circle>
+            <path d="M18,18 L2,18 C2,14.1340068 5.581722,11 10,11 C14.418278,11 18,14.1340068 18,18 Z" id="Path" fill="#000000"></path>
+            <path d="M10,13 C7.51169587,13 5.42572332,14.2562071 4.50535884,16 L15.4946412,16 C14.5742767,14.2562071 12.4883041,13 10,13 Z" id="Oval-3" fill="#FFFFFF" fill-rule="nonzero"></path>
         </g>
     </g>
 </svg>

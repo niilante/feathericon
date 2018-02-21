@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
     <title>close</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="close" fill="#000000">
-            <polygon id="Shape" points="6.00202406 5.00018394 1 0 0 1 5.00091986 6.00091986 0 11 1.00404812 12 6.00202406 7.00202406 11 12 12.0040481 11 7.00312826 6.00091986 12.0040481 1 11.0040481 0"></polygon>
+            <path d="M8.57384176,10 L4.29536704,5.72152528 C3.90154432,5.32770256 3.90154432,4.68918977 4.29536704,4.29536704 C4.68918977,3.90154432 5.32770256,3.90154432 5.72152528,4.29536704 L10,8.57384176 L14.2784747,4.29536704 C14.6722974,3.90154432 15.3108102,3.90154432 15.704633,4.29536704 C16.0984557,4.68918977 16.0984557,5.32770256 15.704633,5.72152528 L11.4261582,10 L15.704633,14.2784747 C16.0984557,14.6722974 16.0984557,15.3108102 15.704633,15.704633 C15.3108102,16.0984557 14.6722974,16.0984557 14.2784747,15.704633 L10,11.4261582 L5.72152528,15.704633 C5.32770256,16.0984557 4.68918977,16.0984557 4.29536704,15.704633 C3.90154432,15.3108102 3.90154432,14.6722974 4.29536704,14.2784747 L8.57384176,10 Z" id="Combined-Shape"></path>
         </g>
     </g>
 </svg>

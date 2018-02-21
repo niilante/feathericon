@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="8px" height="14px" viewBox="0 0 8 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
     <title>location</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="location" fill="#000000">
-            <path d="M4,14 C4,14 8,6.209139 8,4 C8,1.790861 6.209139,0 4,0 C1.790861,0 0,1.790861 0,4 C0,6.209139 4,14 4,14 Z M4,6 C5.1045695,6 6,5.1045695 6,4 C6,2.8954305 5.1045695,2 4,2 C2.8954305,2 2,2.8954305 2,4 C2,5.1045695 2.8954305,6 4,6 Z" id="Shape"></path>
+        <g id="location" fill="#000000" fill-rule="nonzero">
+            <path d="M10,16 C11.4581663,16 14,11.1171593 14,8 C14,5.790861 12.209139,4 10,4 C7.790861,4 6,5.790861 6,8 C6,11.1171593 8.5418337,16 10,16 Z M10,18 C6.6862915,18 4,11.3137085 4,8 C4,4.6862915 6.6862915,2 10,2 C13.3137085,2 16,4.6862915 16,8 C16,11.3137085 13.3137085,18 10,18 Z M10,10 C11.1045695,10 12,9.1045695 12,8 C12,6.8954305 11.1045695,6 10,6 C8.8954305,6 8,6.8954305 8,8 C8,9.1045695 8.8954305,10 10,10 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

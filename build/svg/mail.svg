@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
     <title>mail</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="mail" fill="#000000">
-            <path d="M7.10542736e-15,3 L7,8 L14,3 C14,3 14,9 14,9 C14,10 13.0150146,10 13.0150146,10 L1,10 C1,10 7.10542736e-15,10 7.10542736e-15,9 L7.10542736e-15,3 Z M7.10542736e-15,1 C7.10542736e-15,4.4408921e-16 1,4.4408921e-16 1,4.4408921e-16 L13,4.4408921e-16 C13,4.4408921e-16 14,1.16573418e-15 14,1 L7,6 L7.10542736e-15,1 Z" id="Shape"></path>
+        <g id="mail" fill="#000000" fill-rule="nonzero">
+            <path d="M4,4 L16,4 C17.1045695,4 18,4.8954305 18,6 L18,14 C18,15.1045695 17.1045695,16 16,16 L4,16 C2.8954305,16 2,15.1045695 2,14 L2,6 C2,4.8954305 2.8954305,4 4,4 Z M4,9 L4,14 L16,14 L16,9 L10,12 L4,9 Z M4,6 L4,7 L10,10 L16,7 L16,6 L4,6 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

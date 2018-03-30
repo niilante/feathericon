@@ -206,7 +206,6 @@
 .fe-quote-right:before { content: "\f14c"; }
 .fe-rage:before { content: "\f1bb"; }
 .fe-random:before { content: "\f189"; }
-.fe-reload:before { content: "\f193"; }
 .fe-remove-cart:before { content: "\f1eb"; }
 .fe-rocket:before { content: "\f14d"; }
 .fe-scale:before { content: "\f1c9"; }
@@ -245,6 +244,7 @@
 .fe-tiled:before { content: "\f156"; }
 .fe-timeline:before { content: "\f1ad"; }
 .fe-tired:before { content: "\f1be"; }
+.fe-train:before { content: "\f1f7"; }
 .fe-trash:before { content: "\f157"; }
 .fe-trophy:before { content: "\f158"; }
 .fe-truck:before { content: "\f1ed"; }

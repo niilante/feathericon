@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "5baa0d1585956b4273e0aa9709c9a1d18ac68f1b82987c16bf24d1741bf0acd5",
-    "current": "5baa0d1585956b4273e0aa9709c9a1d18ac68f1b82987c16bf24d1741bf0acd5"
+    "previous": "c205d466744c6c6ff406b86a778a1117a92cfe8382c2d3a7439f197a396f450f",
+    "current": "c205d466744c6c6ff406b86a778a1117a92cfe8382c2d3a7439f197a396f450f"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -699,10 +699,6 @@
       "codepoint": 61833,
       "source": "src/svg/random.svg"
     },
-    "reload": {
-      "codepoint": 61843,
-      "source": "src/svg/reload.svg"
-    },
     "remove-cart": {
       "codepoint": 61931,
       "source": "src/svg/remove-cart.svg"
@@ -855,6 +851,10 @@
       "codepoint": 61886,
       "source": "src/svg/tired.svg"
     },
+    "train": {
+      "codepoint": 61943,
+      "source": "src/svg/train.svg"
+    },
     "trash": {
       "codepoint": 61783,
       "source": "src/svg/trash.svg"
@@ -957,7 +957,7 @@
     }
   },
   "options": {
-    "autowidth": true,
+    "autowidth": false,
     "base64": false,
     "config": "fontcustom.yml",
     "copyright": "",
@@ -966,7 +966,7 @@
     "debug": true,
     "font_ascent": 448,
     "font_descent": 64,
-    "font_design_size": 14,
+    "font_design_size": 24,
     "font_em": 448,
     "font_name": "feathericon",
     "force": false,

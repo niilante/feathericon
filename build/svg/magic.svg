@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>magic</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="magic" fill="#000000">
-            <path d="M1,3 L3,1 L14,12 L12,14 L1,3 Z M9.5,1 L10,1.99929345 L11,2.5 L10,2.99607448 L9.5,4 L9,3 L8,2.5 L9,2 L9.5,1 Z M7,0 L7.33333333,0.666195636 L8,1 L7.33333333,1.33071632 L7,2 L6.66666667,1.33333333 L6,1 L6.66666667,0.666666667 L7,0 Z M12,0 L12.3333333,0.666195636 L13,1 L12.3333333,1.33071632 L12,2 L11.6666667,1.33333333 L11,1 L11.6666667,0.666666667 L12,0 Z M1,6 L1.33333333,6.66619564 L2,7 L1.33333333,7.33071632 L1,8 L0.666666667,7.33333333 L0,7 L0.666666667,6.66666667 L1,6 Z" id="Shape"></path>
+        <g id="magic">
+            <g id="grid">
+                <rect id="content-area" fill-opacity="0.200000018" fill="#66D5FF" fill-rule="evenodd" x="2" y="2" width="20" height="20"></rect>
+                <path d="M2,2 L22,22" id="Line" stroke="#C1C0C1" stroke-width="0.02" stroke-linecap="square" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) "></path>
+                <circle id="circle" stroke="#C1C0C1" stroke-width="0.02" cx="12" cy="12" r="9.99"></circle>
+                <circle id="circle" stroke="#C1C0C1" stroke-width="0.02" cx="12" cy="12" r="3.99"></circle>
+                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="5" cy="5" r="2"></circle>
+                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="19" cy="5" r="2"></circle>
+                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="5" cy="19" r="2"></circle>
+                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="19" cy="19" r="2"></circle>
+                <path d="M2,2 L22,22" id="Line" stroke="#C1C0C1" stroke-width="0.02" stroke-linecap="square"></path>
+                <rect id="rect-horizontal" stroke="#C1C0C1" stroke-width="0.02" x="4.01" y="2.01" width="15.98" height="19.98" rx="2"></rect>
+                <rect id="rect-horizontal" stroke="#C1C0C1" stroke-width="0.02" x="3.01" y="3.01" width="17.98" height="17.98" rx="2"></rect>
+                <rect id="rect-vertical" stroke="#C1C0C1" stroke-width="0.02" transform="translate(12.000000, 12.000000) rotate(90.000000) translate(-12.000000, -12.000000) " x="4.01" y="2.01" width="15.98" height="19.98" rx="2"></rect>
+            </g>
+            <rect id="Rectangle" fill="#000000" transform="translate(12.000000, 12.000000) rotate(-45.000000) translate(-12.000000, -12.000000) " x="11" y="3" width="2" height="18"></rect>
+            <rect id="Rectangle-4" fill="#000000" x="11" y="5" width="1" height="1"></rect>
         </g>
     </g>
 </svg>

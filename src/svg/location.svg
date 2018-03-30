@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>location</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs>
+        <path d="M12,21 C15.3137085,21 18,12.8615737 18,9.35294118 C18,5.84430865 15.3137085,3 12,3 C8.6862915,3 6,5.84430865 6,9.35294118 C6,12.8615737 8.6862915,21 12,21 Z" id="path-1"></path>
+    </defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="location" fill="#000000" fill-rule="nonzero">
-            <path d="M10,16 C11.4581663,16 14,11.1171593 14,8 C14,5.790861 12.209139,4 10,4 C7.790861,4 6,5.790861 6,8 C6,11.1171593 8.5418337,16 10,16 Z M10,18 C6.6862915,18 4,11.3137085 4,8 C4,4.6862915 6.6862915,2 10,2 C13.3137085,2 16,4.6862915 16,8 C16,11.3137085 13.3137085,18 10,18 Z M10,10 C11.1045695,10 12,9.1045695 12,8 C12,6.8954305 11.1045695,6 10,6 C8.8954305,6 8,6.8954305 8,8 C8,9.1045695 8.8954305,10 10,10 Z" id="Shape"></path>
+        <g id="location">
+            <g id="Oval-4">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#000000" stroke-width="2" d="M12,20 C14.0930656,20 17,13.3786348 17,9.35294118 C17,6.38421742 14.7482391,4 12,4 C9.25176089,4 7,6.38421742 7,9.35294118 C7,13.3786348 9.90693444,20 12,20 Z"></path>
+            </g>
+            <circle id="Oval" fill="#000000" cx="12" cy="9" r="2"></circle>
         </g>
     </g>
 </svg>

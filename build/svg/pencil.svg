@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>pencil</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="pencil" fill="#000000" fill-rule="nonzero">
-            <path d="M4,16 L5.34475314,16 L16,5.34475314 L14.6552469,4 L4,14.6599998 L4,16 Z M17.3822273,3.85331799 C18.2059242,4.67701488 18.2059242,6.0124914 17.3822273,6.83618828 L6.21841562,18 L2,18 L2,13.7815844 L13.1638117,2.61777266 C13.9875086,1.79407578 15.3229851,1.79407578 16.146682,2.61777266 L17.3822273,3.85331799 Z" id="Shape"></path>
+        <g id="pencil" fill="#000000">
+            <path d="M3,18 L14.9997108,6 L18,9 L6,21 L3,21 L3,18 Z M16,5 L17.9997108,3 L21,6 L18.9989741,8.00102587 L16,5 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

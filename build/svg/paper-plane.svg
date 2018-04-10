@@ -1,25 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
     <title>paper-plane</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="paper-plane">
-            <g id="grid">
-                <rect id="content-area" fill-opacity="0.200000018" fill="#66D5FF" fill-rule="evenodd" x="2" y="2" width="20" height="20"></rect>
-                <path d="M2,2 L22,22" id="Line" stroke="#C1C0C1" stroke-width="0.02" stroke-linecap="square" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) "></path>
-                <circle id="circle" stroke="#C1C0C1" stroke-width="0.02" cx="12" cy="12" r="9.99"></circle>
-                <circle id="circle" stroke="#C1C0C1" stroke-width="0.02" cx="12" cy="12" r="3.99"></circle>
-                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="5" cy="5" r="2"></circle>
-                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="19" cy="5" r="2"></circle>
-                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="5" cy="19" r="2"></circle>
-                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="19" cy="19" r="2"></circle>
-                <path d="M2,2 L22,22" id="Line" stroke="#C1C0C1" stroke-width="0.02" stroke-linecap="square"></path>
-                <rect id="rect-horizontal" stroke="#C1C0C1" stroke-width="0.02" x="4.01" y="2.01" width="15.98" height="19.98" rx="2"></rect>
-                <rect id="rect-horizontal" stroke="#C1C0C1" stroke-width="0.02" x="3.01" y="3.01" width="17.98" height="17.98" rx="2"></rect>
-                <rect id="rect-vertical" stroke="#C1C0C1" stroke-width="0.02" transform="translate(12.000000, 12.000000) rotate(90.000000) translate(-12.000000, -12.000000) " x="4.01" y="2.01" width="15.98" height="19.98" rx="2"></rect>
-            </g>
+        <g id="paper-plane" fill="#000000" fill-rule="nonzero">
+            <path d="M13.7612096,12.0102446 L3.00114069,10.9260816 L3.00000002,4.0739071 C2.9999013,3.48090331 3.4805459,3.00009873 4.07354978,3.00000001 C4.24030125,2.99997226 4.40476746,3.038783 4.55391451,3.11335652 L20.4062223,11.0395092 C20.9366211,11.3047085 21.1516077,11.9496682 20.8864083,12.4800669 C20.78252,12.6878433 20.6140494,12.8563239 20.4062791,12.9602244 L4.55631145,20.8863799 C4.02592835,21.1516107 3.38095585,20.9366623 3.11572505,20.4062793 C3.04118163,20.2572145 3.00236221,20.0928434 3.0023401,19.926179 L3.00143069,13.0735383 L13.7612096,12.0102446 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

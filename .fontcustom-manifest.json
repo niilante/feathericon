@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "c205d466744c6c6ff406b86a778a1117a92cfe8382c2d3a7439f197a396f450f",
-    "current": "c205d466744c6c6ff406b86a778a1117a92cfe8382c2d3a7439f197a396f450f"
+    "previous": "09f700343cd448721fe4cd18d038467914d37343125dba5371600aded4c8c7da",
+    "current": "09f700343cd448721fe4cd18d038467914d37343125dba5371600aded4c8c7da"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -957,7 +957,7 @@
     }
   },
   "options": {
-    "autowidth": false,
+    "autowidth": true,
     "base64": false,
     "config": "fontcustom.yml",
     "copyright": "",

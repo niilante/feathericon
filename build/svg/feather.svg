@@ -1,27 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
     <title>feather</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
     <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="feather">
-            <g id="grid">
-                <rect id="content-area" fill-opacity="0.200000018" fill="#66D5FF" fill-rule="evenodd" x="2" y="2" width="20" height="20"></rect>
-                <path d="M2,2 L22,22" id="Line" stroke="#C1C0C1" stroke-width="0.02" stroke-linecap="square" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) "></path>
-                <circle id="circle" stroke="#C1C0C1" stroke-width="0.02" cx="12" cy="12" r="9.99"></circle>
-                <circle id="circle" stroke="#C1C0C1" stroke-width="0.02" cx="12" cy="12" r="3.99"></circle>
-                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="5" cy="5" r="2"></circle>
-                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="19" cy="5" r="2"></circle>
-                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="5" cy="19" r="2"></circle>
-                <circle id="circle-small" stroke="#CCD2D6" stroke-width="0.02" cx="19" cy="19" r="2"></circle>
-                <path d="M2,2 L22,22" id="Line" stroke="#C1C0C1" stroke-width="0.02" stroke-linecap="square"></path>
-                <rect id="rect-horizontal" stroke="#C1C0C1" stroke-width="0.02" x="4.01" y="2.01" width="15.98" height="19.98" rx="2"></rect>
-                <rect id="rect-horizontal" stroke="#C1C0C1" stroke-width="0.02" x="3.01" y="3.01" width="17.98" height="17.98" rx="2"></rect>
-                <rect id="rect-vertical" stroke="#C1C0C1" stroke-width="0.02" transform="translate(12.000000, 12.000000) rotate(90.000000) translate(-12.000000, -12.000000) " x="4.01" y="2.01" width="15.98" height="19.98" rx="2"></rect>
-            </g>
-            <path d="M20.715677,3 C19.7626035,10.1229629 14.1229629,15.7626035 7,16.715677 C7.95307356,9.59271414 13.5927141,3.95307356 20.715677,3 Z" id="Combined-Shape" fill="#D8D8D8"></path>
-            <rect id="Rectangle" fill="#D8D8D8" transform="translate(7.949747, 15.949747) rotate(45.000000) translate(-7.949747, -15.949747) " x="6.94974747" y="9.94974747" width="2" height="12"></rect>
+        <g id="feather" fill="#000000">
+            <path d="M5.99252809,17.8771424 C5.9974605,17.9174041 6,17.9584055 6,18 L6,21 C6,21.5522847 5.55228475,22 5,22 C4.44771525,22 4,21.5522847 4,21 L4,18 C4,9.163444 11.163444,2 20,2 C20,10.1618099 13.8887683,16.8962651 5.99252809,17.8771424 Z M6.16663906,15.8333609 C12.163656,14.9016638 16.9016638,10.163656 17.8333609,4.16663906 C11.836344,5.0983362 7.0983362,9.83634397 6.16663906,15.8333609 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

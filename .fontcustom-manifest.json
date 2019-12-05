@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "465500aa8b4d736ff1b4a9736ececf429edaec7493d66d18fd1a80987d083c70",
-    "current": "465500aa8b4d736ff1b4a9736ececf429edaec7493d66d18fd1a80987d083c70"
+    "previous": "7e94e94c2e56c8a9565963dbe97c1f6a683b7b9e6ab5822fe092ec27dbb9ed09",
+    "current": "7e94e94c2e56c8a9565963dbe97c1f6a683b7b9e6ab5822fe092ec27dbb9ed09"
   },
   "fonts": [
     "build/fonts/feathericon.ttf",
@@ -50,6 +50,10 @@
     "app-menu": {
       "codepoint": 61848,
       "source": "src/svg/app-menu.svg"
+    },
+    "apron": {
+      "codepoint": 61947,
+      "source": "src/svg/apron.svg"
     },
     "arrow-down": {
       "codepoint": 61696,
@@ -119,6 +123,10 @@
       "codepoint": 61808,
       "source": "src/svg/bookmark.svg"
     },
+    "bread": {
+      "codepoint": 61958,
+      "source": "src/svg/bread.svg"
+    },
     "browser": {
       "codepoint": 61707,
       "source": "src/svg/browser.svg"
@@ -135,6 +143,10 @@
       "codepoint": 61710,
       "source": "src/svg/building.svg"
     },
+    "bus": {
+      "codepoint": 61950,
+      "source": "src/svg/bus.svg"
+    },
     "cage": {
       "codepoint": 61927,
       "source": "src/svg/cage.svg"
@@ -146,6 +158,10 @@
     "camera": {
       "codepoint": 61712,
       "source": "src/svg/camera.svg"
+    },
+    "car": {
+      "codepoint": 61951,
+      "source": "src/svg/car.svg"
     },
     "cart": {
       "codepoint": 61928,
@@ -270,6 +286,10 @@
     "document": {
       "codepoint": 61855,
       "source": "src/svg/document.svg"
+    },
+    "donut": {
+      "codepoint": 61945,
+      "source": "src/svg/donut.svg"
     },
     "download": {
       "codepoint": 61728,
@@ -406,6 +426,10 @@
     "frowing": {
       "codepoint": 61881,
       "source": "src/svg/frowing.svg"
+    },
+    "frying-pan": {
+      "codepoint": 61959,
+      "source": "src/svg/frying-pan.svg"
     },
     "gamepad": {
       "codepoint": 61841,
@@ -591,6 +615,10 @@
       "codepoint": 61760,
       "source": "src/svg/minus.svg"
     },
+    "mitarashi-dango": {
+      "codepoint": 61960,
+      "source": "src/svg/mitarashi-dango.svg"
+    },
     "mobile": {
       "codepoint": 61761,
       "source": "src/svg/mobile.svg"
@@ -610,6 +638,26 @@
     "music": {
       "codepoint": 61813,
       "source": "src/svg/music.svg"
+    },
+    "notice-active": {
+      "codepoint": 61952,
+      "source": "src/svg/notice-active.svg"
+    },
+    "notice-off": {
+      "codepoint": 61953,
+      "source": "src/svg/notice-off.svg"
+    },
+    "notice-on": {
+      "codepoint": 61954,
+      "source": "src/svg/notice-on.svg"
+    },
+    "notice-push": {
+      "codepoint": 61955,
+      "source": "src/svg/notice-push.svg"
+    },
+    "octpus": {
+      "codepoint": 61948,
+      "source": "src/svg/octpus.svg"
     },
     "open-mouth": {
       "codepoint": 61882,
@@ -703,13 +751,13 @@
       "codepoint": 61833,
       "source": "src/svg/random.svg"
     },
-    "reload": {
-      "codepoint": 61843,
-      "source": "src/svg/reload.svg"
-    },
     "remove-cart": {
       "codepoint": 61931,
       "source": "src/svg/remove-cart.svg"
+    },
+    "rice-cracker": {
+      "codepoint": 61946,
+      "source": "src/svg/rice-cracker.svg"
     },
     "rocket": {
       "codepoint": 61773,
@@ -767,6 +815,10 @@
       "codepoint": 61867,
       "source": "src/svg/speaker.svg"
     },
+    "squid": {
+      "codepoint": 61949,
+      "source": "src/svg/squid.svg"
+    },
     "star": {
       "codepoint": 61777,
       "source": "src/svg/star.svg"
@@ -818,6 +870,10 @@
     "target": {
       "codepoint": 61939,
       "source": "src/svg/target.svg"
+    },
+    "taxi": {
+      "codepoint": 61956,
+      "source": "src/svg/taxi.svg"
     },
     "terminal": {
       "codepoint": 61780,
@@ -875,6 +931,10 @@
       "codepoint": 61933,
       "source": "src/svg/truck.svg"
     },
+    "tumbler-glass": {
+      "codepoint": 61961,
+      "source": "src/svg/tumbler-glass.svg"
+    },
     "twitter": {
       "codepoint": 61917,
       "source": "src/svg/twitter.svg"
@@ -927,6 +987,10 @@
       "codepoint": 61790,
       "source": "src/svg/video.svg"
     },
+    "vr": {
+      "codepoint": 61957,
+      "source": "src/svg/vr.svg"
+    },
     "wallet": {
       "codepoint": 61934,
       "source": "src/svg/wallet.svg"
@@ -959,6 +1023,10 @@
       "codepoint": 61794,
       "source": "src/svg/wrench.svg"
     },
+    "yaki-dango": {
+      "codepoint": 61962,
+      "source": "src/svg/yaki-dango.svg"
+    },
     "youtube": {
       "codepoint": 61920,
       "source": "src/svg/youtube.svg"
@@ -974,7 +1042,7 @@
     "debug": true,
     "font_ascent": 448,
     "font_descent": 64,
-    "font_design_size": 14,
+    "font_design_size": 24,
     "font_em": 448,
     "font_name": "feathericon",
     "force": false,

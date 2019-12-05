@@ -515,9 +515,6 @@
   "random": {
     "codepoint": 61833
   },
-  "reload": {
-    "codepoint": 61843
-  },
   "remove-cart": {
     "codepoint": 61931
   },
@@ -712,5 +709,59 @@
   },
   "train": {
     "codepoint": 61944
+  },
+  "donut": {
+    "codepoint": 61945
+  },
+  "rice-cracker": {
+    "codepoint": 61946
+  },
+  "apron": {
+    "codepoint": 61947
+  },
+  "octpus": {
+    "codepoint": 61948
+  },
+  "squid": {
+    "codepoint": 61949
+  },
+  "notice-active": {
+    "codepoint": 61952
+  },
+  "notice-off": {
+    "codepoint": 61953
+  },
+  "notice-on": {
+    "codepoint": 61954
+  },
+  "notice-push": {
+    "codepoint": 61955
+  },
+  "bus": {
+    "codepoint": 61950
+  },
+  "car": {
+    "codepoint": 61951
+  },
+  "taxi": {
+    "codepoint": 61956
+  },
+  "vr": {
+    "codepoint": 61957
+  },
+  "bread": {
+    "codepoint": 61958
+  },
+  "frying-pan": {
+    "codepoint": 61959
+  },
+  "mitarashi-dango": {
+    "codepoint": 61960
+  },
+  "tumbler-glass": {
+    "codepoint": 61961
+  },
+  "yaki-dango": {
+    "codepoint": 61962
   }
 }

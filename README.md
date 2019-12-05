@@ -1,21 +1,29 @@
-![feathericon](https://raw.githubusercontent.com/featherplain/feathericon/master/docs/img_feathericon_white.png "feathericon")
-
-<h1 align="center">feathericon</h1>
-<p align="center">feathericon is simple, scalable vector icon font for websites, apps.</p>
-<div align="center">
-  <a href="https://travis-ci.org/feathericon/feathericon">
-    <img src="https://travis-ci.org/feathericon/feathericon.svg?branch=master" alt="Build Status">
-  </a>
-  <a href="https://npmjs.org/packages/feathericon">
-    <img src="https://badge.fury.io/js/feathericon.svg" alt="npm version" height="18">
-  </a>
-  <a href="https://npmjs.org/packages/feathericon">
-    <img src="https://img.shields.io/npm/dm/feathericon.svg?style=flat" alt="npm downloads">
-  </a>
-</div>
-<p align="center">Website: <a href="http://feathericon.com">http://feathericon.com</a></p>
+# feathericon
+<a href="https://sketch.cloud/s/YJAlO" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/featherplain/feathericon/master/docs/img_feathericon_white.png" alt="feathericon">
+</a>
+<br><br>
+<a href="https://travis-ci.org/feathericon/feathericon">
+  <img src="https://travis-ci.org/feathericon/feathericon.svg?branch=master" alt="Build Status">
+</a>
+<a href="https://www.npmjs.com/package/feathericon">
+  <img src="https://badge.fury.io/js/feathericon.svg" alt="npm version" height="18">
+</a>
+<a href="https://www.npmjs.com/package/feathericon">
+  <img src="https://img.shields.io/npm/dm/feathericon.svg?style=flat" alt="npm downloads">
+</a>
+<a href="https://www.jsdelivr.com/package/npm/feathericon">
+  <img src="https://data.jsdelivr.com/v1/package/npm/feathericon/badge" alt="jsDeliver">
+</a>
+<br><br>
+feathericon is simply generic vector icon collection. The vectors for all the icons are stored in a <a href="https://sketch.cloud/s/YJAlO">Sketch file</a>.
+<br>
+Website: <a href="https://feathericon.com/">https://feathericon.com/</a>
 
 ## Getting Started
+feathericon contains Sketch file, svg files, css / scss files and font files.
+
+### Basic
 1. Download **[ZIP folder from here](https://github.com/feathericon/feathericon/archive/release.zip)**.
 1. Copy the `css/` and `fonts/` directory to your project.
 1. In the `<head>` of your html, reference the location to your `feathericon.min.css`.
@@ -23,11 +31,13 @@
   ```html
   <link rel="stylesheet" href="path/to/css/feathericon.min.css">
   ```
-1. Place feathicon with `<i>` tag in your html like this. `fe` class is required to use our icons correctly. Check out [our website](http://feathericon.com) to start using icons!
+1. Place feathicon with `<i>` tag in your html like this. `fe` class is required to use our icons correctly. Check out [our website](https://feathericon.com/) to start using icons!
 
   ```html
   <i class="fe fe-heart"></i>
   ```
+
+You can use feathericon with CDN files on [jsdeliver](https://www.jsdelivr.com/package/npm/feathericon).
 
 ### Using SVG sprite
 1. Download **[ZIP folder from here](https://github.com/feathericon/feathericon/archive/release.zip)**.
@@ -50,7 +60,7 @@
 
 ### For developers
 #### Node.js projects
-1. Install via [npm](https://npmjs.org) or [yarn](https://yarnpkg.com/).
+1. Install via [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/).
 
   ```bash
   $ npm install feathericon --save
@@ -125,4 +135,4 @@ If you want to tweak font settings, edit `fontcustom.yml`. feathericon is using 
 If you have any ideas or find bugs, please send me Pull Requests or let me know with GitHub Issues :)
 
 ## License
-[MIT](https://github.com/featherplain/feathericon/blob/master/LICENSE) (C) 2016 Megumi Hano
+[MIT](https://github.com/featherplain/feathericon/blob/master/LICENSE) (C) 2018 Megumi Hano

@@ -1,23 +1,27 @@
 {
   "name": "feathericon",
-  "version": "0.11.0",
+  "version": "1.0.2",
   "description": "Simple, scalable vector icon font for websites, apps.",
   "main": "gulpfile.babel.js",
   "author": "featherplain",
-  "homepage": "http://feathericon.com",
+  "homepage": "https://feathericon.com",
   "license": "MIT",
   "scripts": {
     "before:compile": "gulp before:compile",
     "after:compile": "gulp after:compile",
     "setup": "bash ./bin/setup.sh",
     "webfont": "bash ./bin/webfont.sh",
-    "server": "gulp server",
+    "start": "gulp server",
     "test": "ava tests/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/feathericon/feathericon.git"
   },
+  "contributors": [
+    "syokenz",
+    "konojunya"
+  ],
   "keywords": [
     "icons",
     "font",
